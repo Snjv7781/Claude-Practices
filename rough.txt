@@ -36,3 +36,7 @@ add_user_message(messages, "Write another sentence")
 
 # Get the follow-up response with full context
 final_answer = chat(messages)
+
+
+------------
+
